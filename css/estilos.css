@@ -1,0 +1,36 @@
+
+/*Gooogle fonts*/
+.mr-dafoe-regular {
+    font-family: "Mr Dafoe", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+/*Bootstrap*/
+/*Respeta el tamaño fijo*/
+.container{
+    background-color: blueviolet;
+    width: 500px;
+    height: 200px;
+}
+/*Siempre ocupa el 100% del dispositivo*/
+/*.container-fluid{
+    background-color: aqua;
+    margin: 5px;
+    width: 600px;
+    height: 200px;
+}*/
+/*.container-sm{
+    background-color: chartreuse;
+    margin: 8px;
+    width: 800px;
+    height: 150px;
+}
+.row{
+    background-color: forestgreen;
+    margin: 5px;
+
+}
+.col{
+    background-color: lightsalmon;
+    margin: 5px;
+}*/
